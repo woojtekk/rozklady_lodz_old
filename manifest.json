@@ -1,7 +1,7 @@
 {
   "domain": "rozklady_lodz",
   "name": "Rozkłady Łódź",
-  "version": "0.1.6",
+  "version": "0.2.0",
   "documentation": "https://github.com/woojtekk/rozklady_lodz",
   "issue_tracker": "https://github.com/woojtekk/rozklady_lodz/issues",
   "requirements": [],

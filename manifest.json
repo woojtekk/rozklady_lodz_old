@@ -1,0 +1,13 @@
+{
+  "domain": "rozklady_lodz",
+  "name": "Rozkłady Łódź",
+  "version": "0.1.5",
+  "documentation": "https://github.com/example/rozklady_lodz",
+  "issue_tracker": "https://github.com/example/rozklady_lodz/issues",
+  "requirements": [],
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "codeowners": [
+    "@your-github-here"
+  ]
+}
